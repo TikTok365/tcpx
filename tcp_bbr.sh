@@ -5,7 +5,7 @@ export PATH
 #	System Required: CentOS 7/8,Debian/ubuntu,oraclelinux
 #	Description: BBR+BBRplus+Lotserver
 #	Version: 100.0.1.12
-#	Author: 千影,cx9208,YLX
+#	Author: 千影,cx9208,柒哥,YLX
 
 # RED='\033[0;31m'
 # GREEN='\033[0;32m'
