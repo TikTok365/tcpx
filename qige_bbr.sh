@@ -13,7 +13,7 @@ echo "\
 Linux网络优化脚本
 Powered by 柒哥
 TikTok 直播专线/千粉账户/各种TK资源！
-Telegram：https://t.me/zhuyuheng
+Telegram：https://t.me/kuajingqige
 
 ############################################################
 "
